@@ -23,7 +23,7 @@
 ##  1. <a name='Linktorepository'></a>Link to repository
 
 * [Repository](https://github.com/sskumar4/TrackWorkout)
-* [Link to Atlas deployment]()
+* [Link to Heroku deployment](https://polar-eyrie-29324.herokuapp.com/)
   
 
 ##  2. <a name='Introduction'></a>Introduction   
@@ -62,4 +62,4 @@ The user will be able to:
 
 ## 6. <a name='Launch'></a>Launch
 
-* Deployed Heroku link to the app: 
+* Deployed Heroku link to the app: https://polar-eyrie-29324.herokuapp.com/
